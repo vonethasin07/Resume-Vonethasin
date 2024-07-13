@@ -39,7 +39,15 @@ h1.intro-title.mb-4 {
     transform: translateY(0);
   }
 }
-
+.text-edu{
+  font-family: Phetsarath OT;
+  font-size: 30px;
+  font-weight: bold;
+}
+.lead-edu{
+  font-family: Phetsarath OT;
+  font-size: 25px;
+}
 p {
   font-family: Phetsarath OT;
   font-size: 20px;
