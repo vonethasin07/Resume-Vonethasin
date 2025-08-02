@@ -39,6 +39,9 @@ h1.intro-title.mb-4 {
     transform: translateY(0);
   }
 }
+.w-ctegory {
+  font-family: Phetsarath OT;
+}
 .school {
   font-family: Phetsarath OT;
   font-size: 25px;
